@@ -3,7 +3,10 @@
 ## Description
 PlanetFlicks is a Movie App built using ReactJS and TMDB API to provide users with a seamless movie browsing experience.
 
-![UserInterface](freecompress-PlanetFlicks - Google Chrome 2025-03-02 23-34-01.mp4)
+<video width="640" height="480" controls>
+  <source src="freecompress-PlanetFlicks - Google Chrome 2025-03-02 23-34-01.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Project Structure
 ```
